@@ -31,3 +31,4 @@ This is a basic level project designed for the ESP32 using the Arduino IDE. It d
 - Paste the code from `problem1.ino` into `sketch.ino`.
 - Paste the code from `diagram.json` into the `diagram.json` tab.
 - Click the Play button to simulate.
+- Github Link :- https://github.com/Aditya13913L/ESP32-Digital-Inputs-and-Outputs-Using-C-Firmware.git
